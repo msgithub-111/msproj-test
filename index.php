@@ -1,3 +1,3 @@
 <?
-echo "Prod WebApp";
+echo "Test WebApp";
 ?>
